@@ -1,6 +1,22 @@
 # Telegram-Bot
 
-Don't waste your time anymore on gathering group
+Multifunctional telegram bot for TERA.
+Don't waste your time anymore on gathering group.
+<--><--><--><--><--><--><-->
+
+What can this mod?
+
+<--><--><--><--><--><--><-->
+
+1. Send whisper message in telegram from TERA
+2. Check LFG 
+3. Create LFG
+4. Sends a notification if someone asks to join the group
+5. Sends a notification if dungeon/battleground was find
+6. Adding players to a group by nickname
+<--><--><--><--><--><--><-->
+
+Contacts:
 
 <--><--><--><--><--><--><-->
 
@@ -38,4 +54,17 @@ How to create and use your bot?
 
 <--><--><--><--><--><--><-->
 
+Commands list:
+
+<--><--><--><--><--><--><-->
+
+1. /inspect "playerName" - inspect player
+2. /invite "playerName" - add player in party
+3. /LFGcreate "message" - create lfg with your message
+4. /LFGlist - Send info about lfg on server
+
+<--><--><--><--><--><--><-->
+
 P.S: I made this bot 3 years ago, so you probably might have some mistakes, feel free to write to me with questions.
+
+<--><--><--><--><--><--><-->
