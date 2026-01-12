@@ -2,6 +2,7 @@
 
 Multifunctional telegram bot for TERA.
 Don't waste your time anymore on gathering group.
+
 <--><--><--><--><--><--><-->
 
 What can this mod?
