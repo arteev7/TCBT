@@ -1,6 +1,7 @@
 # Telegram-Bot
 
 Multifunctional telegram bot for TERA.
+
 Don't waste your time anymore on gathering group.
 
 <--><--><--><--><--><--><-->
@@ -15,6 +16,7 @@ What can this mod?
 4. Sends a notification if someone asks to join the group
 5. Sends a notification if dungeon/battleground was find
 6. Adding players to a group by nickname
+
 <--><--><--><--><--><--><-->
 
 Contacts:
