@@ -1,6 +1,6 @@
-# Telegram-Bot
+# TCBT
 
-Multifunctional telegram bot for TERA.
+Multifunctional telegram chat bot for TERA.
 
 Don't waste your time anymore on gathering group.
 
